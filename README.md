@@ -1,5 +1,9 @@
 ## ACC-adaptive-cruise-control-system-with-MATLAB
 
+#### 사용 보드 : Arduino Mega, Easy Module Shield, Arduino Motor Shield
+#### 사용 센서 : DHT11(습도센서), Ultra_sonic_sensor(초음파 센서)
+#### 사용 모터 : MB2832E-1268(DC 모터)
+
 ### 시스템 요구사항
 <img width="50%" src="https://github.com/Jeonminje/simulink-ACC-system/assets/84283712/d5e3e8a0-4a81-47c8-8c50-14072614f4ce"/>
 <img width="50%" src="https://github.com/Jeonminje/simulink-ACC-system/assets/84283712/35974b96-9c5a-4d50-9d33-fb82065cb0a3"/>
