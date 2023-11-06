@@ -1,4 +1,4 @@
-## ACC-adaptive-cruise-control-system-with-MATLAB
+## ACC(adaptive cruise control) system with MATLAB
 
 #### 사용 보드 : Arduino Mega, Easy Module Shield, Arduino Motor Shield
 #### 사용 센서 : DHT11(습도센서), Ultra_sonic_sensor(초음파 센서)
