@@ -1,0 +1,9 @@
+
+avrdude: AVR device initialized and ready to accept instructions
+avrdude: Device signature = 0x1e9801 (probably m2560)
+avrdude: reading input file "C:\Users\현대오토15\OneDrive\문서\MATLAB\project_1/DC_motor.hex"
+avrdude: writing flash (33254 bytes):
+avrdude: 33254 bytes of flash written
+
+avrdude done.  Thank you.
+
